@@ -1,0 +1,5 @@
+allowBuilds:
+  core-js: true
+  electron: true
+  protobufjs: true
+  sharp: true
