@@ -6,6 +6,10 @@ Built with Next.js, React, Tailwind CSS, and packaged as a Windows desktop app w
 
 ![Aircraft Defect Analyzer main screen](docs/screenshots/main-view.png)
 
+## Download
+
+Grab the latest Windows installer from [Releases](https://github.com/Kuakun55/aircraft-inspector/releases/latest).
+
 ## Prerequisites
 
 - [Node.js](https://nodejs.org/) 18+
