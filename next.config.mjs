@@ -8,6 +8,10 @@ const nextConfig = {
   images: {
     unoptimized: true,
   },
+  webpack: (config) => {
+    config.output.hashFunction = 'sha256'
+    return config
+  },
 }
 
 export default nextConfig
